@@ -1,0 +1,149 @@
+div.upperdiv{
+	background-image: url(images/header_bg.jpg);
+	background-size: cover;
+	height: 400px;
+	width: 800px;
+	margin-left: 225px;
+	margin-right: 225px;
+}
+h1{
+	color: white;
+	margin-left: 100px;
+	font-size: 24px;
+	font-family: 'open sans';
+	font-weight: 600;
+
+}
+#one {
+	color: white;
+	font-size: 24px;
+	font-weight: 400;
+	margin-top: 95px;
+	text-align: center;
+	font-family: 'open sans';
+}
+button.S1 {
+	background-color: #f9e42e;
+	display: block;
+	margin: 0 auto;
+	width: 140px;
+	height: 35px;
+	font-size: 14px
+	border-radius: 5px;
+	font-weight: 800;
+	border-radius: 5px;
+	margin-top: 40px;
+	color: #033048;
+}
+
+div.mid{
+	background-color: #f0efef;
+	margin-left: 225px;
+	margin-right: 225px;
+	margin-top: 0px;
+	width: 800px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+h2{
+	font-size: 20px;
+	font-weight: 500;
+	color: #033048;
+	margin-left: 60px;
+	background-size: cover;
+	margin-top: 30px;
+}
+#two {
+	text-align: center;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 13px;
+	color: #606161;
+	margin-left: 60px;
+	margin-top: 10px;
+}
+ul{
+	color:#606161;
+	font-size: 13px;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+div.lowerdiv {
+	background-image: url(images/testimonial_bg.jpg);
+	background-size: cover;
+	height: 230px;
+	text-align: center;
+	margin-left: 225px;
+	margin-right: 225px;
+	width: 800px;
+}
+#three{
+	color: white;
+	font-size: 18px;
+	font-family: 'open sans';
+	padding-top: 30px;
+	font-style: italic;
+
+}
+#four {
+	color: white;
+	font-weight: lighter;
+	margin-top: 20px;
+	font-size: 18px
+}
+button.S2 {
+	background-color: #033048;
+	color: white;
+	display: block;
+	margin: 0 auto;
+	width: 160px;
+	height: 30px;
+	font-size: 12px
+	font-weight: bolder;
+	border-radius: 5px;
+	text-align: center;
+	padding-top: 2px;
+}
+div.lowerer {
+	background-color: #f9e42e;
+	margin-left: 225px;
+	margin-right: 225px;
+	width: 800px;
+	height: 50px;
+}
+h3{
+	color: #f9e42e;
+	font-size: 24px;
+	font-weight: bolder; 
+	margin-left: 225px;
+	margin-right: 225px;
+	text-align: center;
+	padding-top: 30px;
+	font-weight: 800;
+}
+div.lowest {
+	background-color: grey;
+	margin-left: 225px;
+	margin-right: 225px;
+	text-align: center;
+	height: 170px;
+	width: 800px;
+}
+img{
+	padding-top: 20px;
+	align-self: center;
+}
+footer {
+	margin-bottom: 2px;
+	color: white;
+	font-size: 9px;
+	font-weight: lighter;
+	padding-top: 20px;
+
+}
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'open sans';
+} 
